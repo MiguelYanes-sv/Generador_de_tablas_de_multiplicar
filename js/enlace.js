@@ -1,0 +1,1 @@
+document.write(`<a href="index.html" class="enlace">Ingrese el número</a>`);
